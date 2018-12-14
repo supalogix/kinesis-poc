@@ -1,0 +1,7 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+node_modules
+bundle.js
+*.pem
+*.tar.gz
